@@ -49,7 +49,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de tweede pagina (small screen):
   product pagina
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/img-4019.PNG" width="375px" alt="video product">
+   <img src="readme-images/img-4020.PNG.PNG" width="375px" alt="titel product">
+     <img src="readme-images/img-4021.PNG" width="375px" alt="omschrijving van ontwerper">
+       <img src="readme-images/img-4023.PNG" width="375px" alt="Product afbeeldingen">
+         <img src="readme-images/img-4025.PNG" width="375px" alt="Vertwijzing naar andere producten">
+            <img src="readme-images/img-4027.PNG" width="375px" alt="footer">
+         
  
 </details>
 
