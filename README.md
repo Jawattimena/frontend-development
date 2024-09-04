@@ -41,11 +41,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   #### Screenshot(s) van de eerste pagina (small screen): 
   Home
   
-  <img src="IMG_3995.PNG" width="375px" alt="header home">
-    <img src="IMG_4004.PNG" width="375px" alt="Afbeelding vlakken op de website">
-        <img src="IMG_4009.PNG" width="375px" alt="KLeur vlakken op de website">
-            <img src="IMG_4016.PNG" width="375px" alt="kleur met producten vlakken op de website">
-                <img src="IMG_4018.PNG" width="375px" alt="footer home">
+  <img src="readme-images/img-3995.PNG" width="375px" alt="header home">
+    <img src="readme-images/img-4004.PNG" width="375px" alt="Afbeelding vlakken op de website">
+        <img src="readme-images/img-4009.PNG" width="375px" alt="KLeur vlakken op de website">
+            <img src="readme-images/img-4016.PNG" width="375px" alt="kleur met producten vlakken op de website">
+                <img src="readme-images/img-4018.PNG" width="375px" alt="footer home">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   product pagina
