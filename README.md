@@ -80,11 +80,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
     Wanneer er speciale opmaak is in een text uit een list dan leest hij dat op zonder de hele text op te lezen.
     
     <img src="checklist-test-1-p1.jpg" width="375px" alt="Checklist WCAG test 1 pagina 1">
-    <img src="checklist-test-1-p2.jpg" width="375px" alt="Checklist WCAG test 1 pagina 2">
-    <img src="checklist-test-1-p3.jpg" width="375px" alt="Checklist WCAG test 1 pagina 3">
-    <img src="checklist-test-1-p4.jpg" width="375px" alt="Checklist WCAG test 1 pagina 4">
-    <img src="checklist-test-1-p5.jpg" width="375px" alt="Checklist WCAG test 1 pagina 5">
-    
+        <img src="checklist-test-1-p2.jpg" width="375px" alt="Checklist WCAG test 1 pagina 2">
+            <img src="checklist-test-1-p3.jpg" width="375px" alt="Checklist WCAG test 1 pagina 3">
+                <img src="checklist-test-1-p4.jpg" width="375px" alt="Checklist WCAG test 1 pagina 4">
+                    <img src="checklist-test-1-p5.jpg" width="375px" alt="Checklist WCAG test 1 pagina 5">
     </details>
 
 
