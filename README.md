@@ -84,7 +84,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
             <img src="readme-images/checklist-test-1-p3.jpg" width="375px" alt="Checklist WCAG test 1 pagina 3">
                 <img src="readme-images/checklist-test-1-p4.jpg" width="375px" alt="Checklist WCAG test 1 pagina 4">
                     <img src="readme-images/checklist-test-1-p5.jpg" width="375px" alt="Checklist WCAG test 1 pagina 5">
-    </details>
+                    
+</details>
 
 
 
