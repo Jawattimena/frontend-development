@@ -70,13 +70,19 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
   
-       Wanneer ik Links geselecteerd heb om alle links voor te lezen blijft de voiceover link roepen bij elke nieuwe link die ik sellecteer. Dat vind ik overbodig. Als ik de website start en sellecteer gaat de voiceover uit zichzelf alles langs, of ik dat handig vind weet ik niet. het zou misschien wel handdig kunnen zijn als je de gebruiker lijdt naar een plek op de website die het process voor de gebruiker makkelijker en sneller maakt. Hij zegt heel veel over dingen die niet zichtbaar zijn of klikbaar zijn dus dat is overboodig Wanneer er speciale opmaak is in een text uit een list dan leest hij dat op zonder de hele text op te lezen. 
+       Wanneer ik Links geselecteerd heb om alle links voor te lezen blijft de voiceover link roepen bij elke nieuwe link die ik sellecteer. Dat vind ik overbodig. 
+       
+       Als ik de website start en sellecteer gaat de voiceover uit zichzelf alles langs, of ik dat handig vind weet ik niet. Het zou misschien wel handdig kunnen zijn als je de gebruiker lijdt naar een plek op de website die het process voor de gebruiker makkelijker en sneller maakt. 
+       
+       de voiceover zegt heel veel over dingen die niet zichtbaar zijn of klikbaar zijn dus dat is overboodig. 
+       
+       Wanneer er speciale opmaak is in een text uit een list dan leest hij dat op zonder de hele text op te lezen. 
        
 <img src="readme-images/checklist-test-1-p1.jpg" width="375px" alt="Checklist WCAG test 1 pagina 1">
-<img src="readme-images/checklist-test-2-p1.jpg" width="375px" alt="Checklist WCAG test 1 pagina 2">
-<img src="readme-images/checklist-test-3-p1.jpg" width="375px" alt="Checklist WCAG test 1 pagina 3">
-<img src="readme-images/checklist-test-4-p1.jpg" width="375px" alt="Checklist WCAG test 1 pagina 4">
-<img src="readme-images/checklist-test-5-p1.jpg" width="375px" alt="Checklist WCAG test 1 pagina 5">
+<img src="readme-images/checklist-test-1-p2.jpg" width="375px" alt="Checklist WCAG test 1 pagina 2">
+<img src="readme-images/checklist-test-1-p3.jpg" width="375px" alt="Checklist WCAG test 1 pagina 3">
+<img src="readme-images/checklist-test-1-p4.jpg" width="375px" alt="Checklist WCAG test 1 pagina 4">
+<img src="readme-images/checklist-test-1-p5.jpg" width="375px" alt="Checklist WCAG test 1 pagina 5">
                     
 </details>
 
