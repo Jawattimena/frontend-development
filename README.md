@@ -116,7 +116,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Stand van zaken
     De HTML zag er al netjes uit en geordend. er waren kleine usabilety veranderingen. Bijvoorbeeld de artiekel over de verhalen van de producten had ik alle blokjes in articels gezet maar het was handiger om alle blokjes in een ul te zetten met li's. Dat had ik uiteindelijk gedaan. Voor de rest had ik nog geen css.
         
-<img src="readme-images/articel-ul" width="375px" alt="De articel die is omgezet naar ul">
+<img src="readme-images/articel-ul.PNG" width="375px" alt="De articel die is omgezet naar ul">
     
 </details>
 
@@ -132,7 +132,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Stand van zaken
   Ik had in principe niet veel vragen tijdens deze les aangezien ik eigenlijk nog druk bezig was met mijn css. Maar ik heb wel dingen geleerd over hoe ik een afbeelding kan vormen naar de div die er om heen zit met object-fit: cover; en dat er een gradient generater bestaat zodat ik de grote blokken van de website kon na maken. Ook was mijn vraag beantwoord over de afbeelding die er opstaat of ik die in mijn HTML moest zetten of in mijn CSS. Omdat het een decoratieve afbeelding is werd er gezecht dat het als background image in mijn CSS mocht staan. Dit was simpeler te doen dan het in HTML te zetten.
 
-<img src="readme-images/articel-blocks" width="375px" alt="De articel die is vormgegeven">
+<img src="readme-images/articel-blocks.PNG" width="375px" alt="De articel die is vormgegeven">
   
 </details>
 
@@ -178,18 +178,18 @@ Hier leerde ik nog over de scroll snap functie op de website wat vloeiender te l
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-<img src="readme-images/Screenshot-einde-1" width="375px" alt="uitomst opdracht 1">
-<img src="readme-images/Screenshot-einde-2" width="375px" alt="uitomst opdracht 1">
-<img src="readme-images/Screenshot-einde-3" width="375px" alt="uitomst opdracht 1">
-<img src="readme-images/Screenshot-einde-4" width="375px" alt="uitomst opdracht 1">
-<img src="readme-images/Screenshot-einde-5" width="375px" alt="uitomst opdracht 1">
-<img src="readme-images/Screenshot-einde-6" width="375px" alt="uitomst opdracht 1">
-<img src="readme-images/Screenshot-einde-7" width="375px" alt="uitomst opdracht 1">
-<img src="readme-images/Screenshot-einde-8" width="375px" alt="uitomst opdracht 1">
-<img src="readme-images/Screenshot-einde-9" width="375px" alt="uitomst opdracht 1">
-<img src="readme-images/Screenshot-einde-10" width="375px" alt="uitomst opdracht 1">
-<img src="readme-images/Screenshot-einde-11" width="375px" alt="uitomst opdracht 1">
-<img src="readme-images/Screenshot-einde-12" width="375px" alt="uitomst opdracht 1">   
+<img src="readme-images/Screenshot-einde-1.PNG" width="375px" alt="uitomst opdracht 1">
+<img src="readme-images/Screenshot-einde-2.PNG" width="375px" alt="uitomst opdracht 1">
+<img src="readme-images/Screenshot-einde-3.PNG" width="375px" alt="uitomst opdracht 1">
+<img src="readme-images/Screenshot-einde-4.PNG" width="375px" alt="uitomst opdracht 1">
+<img src="readme-images/Screenshot-einde-5.PNG" width="375px" alt="uitomst opdracht 1">
+<img src="readme-images/Screenshot-einde-6.PNG" width="375px" alt="uitomst opdracht 1">
+<img src="readme-images/Screenshot-einde-7.PNG" width="375px" alt="uitomst opdracht 1">
+<img src="readme-images/Screenshot-einde-8.PNG" width="375px" alt="uitomst opdracht 1">
+<img src="readme-images/Screenshot-einde-9.PNG" width="375px" alt="uitomst opdracht 1">
+<img src="readme-images/Screenshot-einde-10.PNG" width="375px" alt="uitomst opdracht 1">
+<img src="readme-images/Screenshot-einde-11.PNG" width="375px" alt="uitomst opdracht 1">
+<img src="readme-images/Screenshot-einde-12.PNG" width="375px" alt="uitomst opdracht 1">   
 
 
   ### Dit ging goed/Heb ik geleerd: 
@@ -199,7 +199,7 @@ Hier leerde ik nog over de scroll snap functie op de website wat vloeiender te l
   ### Dit was lastig/Is niet gelukt:
   Over het algemeen is alles wel gelukt behalve de gele blok met micro interactie. Ik wilde het precies maken zoals Ikea dat heeft gemaakt. maar dat was erg lastige code daarnaast heb ik ook momenten gehad dat ik geiriteerd werd dat dingen niet werkte maar op een geveen moment kwam ik er wel uit. Ik had misschien nog wel wat meer willen duiken in het gebruiken van darkmode of de controls willen vormgeven van de video. 
 
-  <img src="readme-images/Screenshot-einde-bummer" width="375px" alt="bummer">
+  <img src="readme-images/Screenshot-einde-bummer.PNG" width="375px" alt="bummer">
 </details>
 
 
