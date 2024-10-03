@@ -114,27 +114,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
-
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
-
-  ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
-
+    De HTML zag er al netjes uit en geordend. er waren kleine usabilety veranderingen. Bijvoorbeeld de artiekel over de verhalen van de producten had ik alle blokjes in articels gezet maar het was handiger om alle blokjes in een ul te zetten met li's. Dat had ik uiteindelijk gedaan. Voor de rest had ik nog geen css.
+        
+<img src="readme-images/articel-ul" width="375px" alt="De articel die is omgezet naar ul">
+    
 </details>
 
 
@@ -147,27 +130,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik had in principe niet veel vragen tijdens deze les aangezien ik eigenlijk nog druk bezig was met mijn css. Maar ik heb wel dingen geleerd over hoe ik een afbeelding kan vormen naar de div die er om heen zit met object-fit: cover; en dat er een gradient generater bestaat zodat ik de grote blokken van de website kon na maken. Ook was mijn vraag beantwoord over de afbeelding die er opstaat of ik die in mijn HTML moest zetten of in mijn CSS. Omdat het een decoratieve afbeelding is werd er gezecht dat het als background image in mijn CSS mocht staan. Dit was simpeler te doen dan het in HTML te zetten.
 
-
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
-
-  ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
-
+<img src="readme-images/articel-blocks" width="375px" alt="De articel die is vormgegeven">
+  
 </details>
 
 
@@ -180,7 +146,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 9<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+  De Ikea site was over het algemeen al goed gemaakt maar er zat een aantal kleine dingen die ze niet goed hadden gemaakt. Dingen zoals een gevalideerde website, duidelijke focusstates, autoplaying videos etc. die dingen heb ik allemaal aangepast. Ook lag mijn focus voornamelijk op het gebruik van de tab en voiceover functie.
+  
+<img src="readme-images/checklist-test-2-p1.jpg" width="375px" alt="Checklist WCAG test 2 pagina 1">
+<img src="readme-images/checklist-test-2-p2.jpg" width="375px" alt="Checklist WCAG test 2 pagina 2">
+<img src="readme-images/checklist-test-2-p3.jpg" width="375px" alt="Checklist WCAG test 2 pagina 3">
+<img src="readme-images/checklist-test-2-p4.jpg" width="375px" alt="Checklist WCAG test 2 pagina 4">
+<img src="readme-images/checklist-test-2-p5.jpg" width="375px" alt="Checklist WCAG test 2 pagina 5">
+  
 
 </details>
 
@@ -194,31 +167,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
-
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
-
-  ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+Hier leerde ik nog over de scroll snap functie op de website wat vloeiender te laten voelen. Die heb ik toe kunne voegen.
 
 </details>
-
-
-
 
 
 ## Eindgesprek (week 5)
@@ -227,19 +178,28 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+<img src="readme-images/Screenshot-einde-1" width="375px" alt="uitomst opdracht 1">
+<img src="readme-images/Screenshot-einde-2" width="375px" alt="uitomst opdracht 1">
+<img src="readme-images/Screenshot-einde-3" width="375px" alt="uitomst opdracht 1">
+<img src="readme-images/Screenshot-einde-4" width="375px" alt="uitomst opdracht 1">
+<img src="readme-images/Screenshot-einde-5" width="375px" alt="uitomst opdracht 1">
+<img src="readme-images/Screenshot-einde-6" width="375px" alt="uitomst opdracht 1">
+<img src="readme-images/Screenshot-einde-7" width="375px" alt="uitomst opdracht 1">
+<img src="readme-images/Screenshot-einde-8" width="375px" alt="uitomst opdracht 1">
+<img src="readme-images/Screenshot-einde-9" width="375px" alt="uitomst opdracht 1">
+<img src="readme-images/Screenshot-einde-10" width="375px" alt="uitomst opdracht 1">
+<img src="readme-images/Screenshot-einde-11" width="375px" alt="uitomst opdracht 1">
+<img src="readme-images/Screenshot-einde-12" width="375px" alt="uitomst opdracht 1">   
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
-
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
-
+  Ik heb heel veel geleerd over elementen sellecteren zonder een class te gebruiken, Het beter begrijpen van HTML en wat het allemaal kan en over hoe uitgebreid CSS kan zijn.
+  De js interactie ga ik zeker mee nemen in andere opdrachten.
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
+  Over het algemeen is alles wel gelukt behalve de gele blok met micro interactie. Ik wilde het precies maken zoals Ikea dat heeft gemaakt. maar dat was erg lastige code daarnaast heb ik ook momenten gehad dat ik geiriteerd werd dat dingen niet werkte maar op een geveen moment kwam ik er wel uit. Ik had misschien nog wel wat meer willen duiken in het gebruiken van darkmode of de controls willen vormgeven van de video. 
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  <img src="readme-images/Screenshot-einde-bummer" width="375px" alt="bummer">
 </details>
 
 
