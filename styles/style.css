@@ -45,12 +45,12 @@
 
 @font-face {
 	font-family: Noto IKEA Latin Regular;
-	src: url(fonts/noto-ikea-400.latin.63019780.woff2);
+	src: url(/fonts/noto-ikea-400.latin.63019780.woff2);
 }
 
 @font-face {
 	font-family: Noto IKEA Latin Bold;
-	src: url(fonts/noto-ikea-700.latin.7e228297.woff2); 
+	src: url(/fonts/noto-ikea-700.latin.7e228297.woff2); 
 }
 
 a:focus-visible{
