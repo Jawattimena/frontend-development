@@ -45,12 +45,12 @@
 
 @font-face {
 	font-family: Noto IKEA Latin Regular;
-	src: url(/fonts/noto-ikea-400.woff2);
+	src: url(fonts/noto-ikea-400.woff2);
 }
 
 @font-face {
 	font-family: Noto IKEA Latin Bold;
-	src: url(/fonts/noto-ikea-700.woff2); 
+	src: url(fonts/noto-ikea-700.woff2); 
 }
 
 a:focus-visible{
@@ -225,31 +225,31 @@ p {
 /* Article blokcs */
 
 .first-article article{
-	background-image: url(/images/PAX_startpage_desktop_849341c5ce.avif);
+	background-image: url(images/PAX_startpage_desktop_849341c5ce.avif);
 	background-size: cover;
 	background-position-y: center;
 }
 
 a:nth-of-type(2) article{
-	background-image: url(/images/PH_183506_1_9dfa488b3c.webp);
+	background-image: url(images/PH_183506_1_9dfa488b3c.webp);
 	background-size: cover;
 	background-position-y: center;
 }
 
 a:nth-of-type(3) article{
-	background-image: url(/images/PH_197001_46799b0344.avif);
+	background-image: url(images/PH_197001_46799b0344.avif);
 	background-size: cover;
 	background-position-y: center;
 }
 
 a:nth-of-type(4) article{
-	background-image: url(/images/PH_198689_e9654a0274.avif);
+	background-image: url(images/PH_198689_e9654a0274.avif);
 	background-size: cover;
 	background-position-y: center;
 }
 
 a:nth-of-type(5) article{
-	background-image: url(/images/PH_199178_7298adbed8.avif);
+	background-image: url(images/PH_199178_7298adbed8.avif);
 	background-size: cover;
 	background-position-y: center;
 }
